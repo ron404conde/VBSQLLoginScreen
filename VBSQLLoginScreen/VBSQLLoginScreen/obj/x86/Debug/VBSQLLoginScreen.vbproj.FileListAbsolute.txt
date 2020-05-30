@@ -1,0 +1,13 @@
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\bin\Debug\VBSQLLoginScreen.exe
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\bin\Debug\VBSQLLoginScreen.pdb
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\bin\Debug\VBSQLLoginScreen.xml
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.Resources.resources
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.vbproj.GenerateResource.Cache
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.exe
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.xml
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.pdb
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.frmLoginScreen.resources
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.vbprojResolveAssemblyReference.cache
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\bin\Debug\VBSQLLoginScreen.exe.config
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.frmMainPage.resources
+D:\@1Devcode\04 Git Open Source Project\Code\VBSQLLoginScreen\VBSQLLoginScreen\obj\x86\Debug\VBSQLLoginScreen.frmSplashScreen.resources
